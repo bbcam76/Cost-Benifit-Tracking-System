@@ -42,9 +42,3 @@ This system helps users:
 ---
 
 ## Installation
-### Using GitHub Codespaces
-1. Open this repo in [GitHub Codespaces](https://github.com/codespaces).
-2. Wait for the environment to load (Python 3.11+ preinstalled).
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
