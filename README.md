@@ -3,6 +3,10 @@
 A Python-based application for tracking costs and benefits of projects or initiatives. Designed for teams to analyze financial feasibility and ROI.
 
 ---
+![image1](CBTS1.jpg)
+
+
+---
 
 ## Table of Contents
 - [Project Overview](#project-overview)
